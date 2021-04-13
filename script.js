@@ -1,5 +1,5 @@
 const h6 = document.createElement('h6');
-h6.textContent = "(Trying to get used to JavaScript, but it's hard D:)"
+h6.textContent = "(Trying to get used to JavaScripts creating elements!)"
 document.querySelector('body').appendChild(h6);
 
 document.getElementById("demo").addEventListener("mouseover", mouseOver);
